@@ -1,8 +1,5 @@
 <h1 align="center">Oi! Sou Felipe Sihel Lipszyc</h1>
-<h3 align="center">Recreador em busca de estágio em Back-end!</h3>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=fesihel&label=Profile%20views&color=0e75b6&style=flat" alt="fesihel" /> </p>
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=fesihel" alt="fesihel" /></a> </p>
-<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
+<h3 align="center">Recreador em busca de estágio! </h3>
 
 <h3>Formação:</h3>
 <ul>
@@ -22,6 +19,7 @@
 <h3>Projetos</h3>
 <ul>
   <li><a href="https://mackalimentos.netlify.app/"> MackAlimentos </a></li>
+<li><a href="https://felipe-sihel.itch.io/boxed-cat">Boxed cat</a></li>
 </ul>
 
 <h3 align="left">Redes:</h3>
