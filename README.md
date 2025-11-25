@@ -1,5 +1,5 @@
 <h1 align="center">Oi! Sou Felipe Sihel Lipszyc</h1>
-<h3 align="center">Recreador em busca de estágio! </h3>
+<h3 align="center">e estou em busca de estágio! </h3>
 
 <h3>Formação:</h3>
 <ul>
